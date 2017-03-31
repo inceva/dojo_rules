@@ -1,1 +1,3 @@
-Hello All I likez da JavaScript!
+* Da codez
+* Da Hax0rs
+* Da Mad Skillz!
